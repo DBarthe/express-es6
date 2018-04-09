@@ -15,7 +15,7 @@ npm run watch
 
 Compile the es6 code from `lib/` to `dist/`
 ```
-npm run watch
+npm run build
 ```
 
 Run the compiled server:
